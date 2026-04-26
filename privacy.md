@@ -13,7 +13,7 @@ If you only read one section, this is it.
 
 ## Who we are
 
-LeafWord is developed and maintained by Mohan ("we", "us"). You can reach us at [mohan.a05@gmail.com](mailto:mohan.a05@gmail.com).
+LeafWord is developed and maintained by Mohan ("we", "us"). You can reach us at [mrrmfamily2022@gmail.com](mailto:mrrmfamily2022@gmail.com).
 
 ## What information LeafWord stores — and where
 
@@ -68,7 +68,7 @@ Because LeafWord does not transmit or collect any personal information from chil
 - Parents can review the child profile at any time via Settings → Profiles.
 - Parents can delete any child profile, all learning history, and all subscription data directly on the device; nothing persists elsewhere.
 
-If you believe your child has entered sensitive information in the app and you would like guidance removing it, contact us at [mohan.a05@gmail.com](mailto:mohan.a05@gmail.com). Because we do not receive any data, the most effective removal is on the device itself.
+If you believe your child has entered sensitive information in the app and you would like guidance removing it, contact us at [mrrmfamily2022@gmail.com](mailto:mrrmfamily2022@gmail.com). Because we do not receive any data, the most effective removal is on the device itself.
 
 ## For users in the European Economic Area (GDPR)
 

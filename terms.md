@@ -85,7 +85,7 @@ When using LeafWord, you agree **not to**:
 
 LeafWord uses Apple Intelligence to generate word lessons on-device. We design the app carefully — with multiple validators for accuracy, age-appropriateness, and safety — but generative AI can occasionally produce imperfect content. **LeafWord is an educational supplement, not a replacement for a teacher, dictionary, or parent's judgment.**
 
-If you ever see a word, meaning, or fun fact that seems inaccurate or inappropriate, please use the in-app report option or email us at [mohan.a05@gmail.com](mailto:mohan.a05@gmail.com).
+If you ever see a word, meaning, or fun fact that seems inaccurate or inappropriate, please use the in-app report option or email us at [mrrmfamily2022@gmail.com](mailto:mrrmfamily2022@gmail.com).
 
 ## 9. Availability
 
